@@ -1,0 +1,13 @@
+[
+    {
+      "modid": "snow",
+      "name": "Snow",
+      "description": "Snow utility mod",
+      "version": "4.0-beta",
+      "mcversion": "1.12.2",
+      "authorList": ["snowmii"],
+      "logoFile": "assets/snow/logo.png",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
